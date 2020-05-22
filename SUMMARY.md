@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [My OSCP Journey — A Review](my-oscp-journey-a-review.md)
 * [HTB Linux Boxes](linux-boxes/README.md)
   * [Lame Writeup w/o Metasploit](linux-boxes/lame-writeup-w-o-metasploit.md)
   * [Brainfuck Writeup w/o Metasploit](linux-boxes/brainfuck-writeup-w-o-metasploit.md)
