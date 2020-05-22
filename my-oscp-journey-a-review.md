@@ -148,7 +148,7 @@ Again, this is a tough question that I don’t have a solid answer to. I persona
 
 I didn’t use any of the recommended tools such as CherryTree and Joplin. During the OSCP labs I documented everything in GitBook. The exam and lab reports were written in LaTeX. As for report format, I used the official [Offensive Security template](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf).
 
-#### **8. Can you suggest new practice VMs from HTB or VulnHub that are inline with the PWK 2.0 update?**
+#### **8. Can you suggest new practice VMs from HTB or VulnHub that are inline with the PWK 3.0 update?**
 
 No, [TJ\_Null](https://twitter.com/TJ_Null) has done a great job in maintaining and updating the list. Make sure to follow him on Twitter to receive any future updates. 
 
