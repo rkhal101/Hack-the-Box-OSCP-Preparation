@@ -8,9 +8,9 @@ This post describes the journey that I went through while studying for the Offen
 
 I first enrolled in the OSCP certification at the beginning of last year. I had just finished a Master’s degree in Computer Science and started my first full time position as a Security Assessment Analyst. At the time, I had a background in web security, however, I recognized that there was a huge gap in my knowledge of the entire process of penetration testing. This is what peeked my interest in the OSCP certification. 
 
-Without doing much research into the prerequisites of the certification, I enrolled in the PWK v.2.0 course and made the incorrect assumption that it would be like any other course that I have taken where you get a book or manual that teaches you the foundational knowledge to tackle the labs and exam. And boy was I wrong!
+Without doing much research into the prerequisites of the certification, I enrolled in the PWK v1.1.6 course and made the incorrect assumption that it would be like any other course that I have taken where you get a book or manual that teaches you the foundational knowledge to tackle the labs and exam. And boy was I wrong!
 
-For those of you that had done v2.0 of the course, you know that the course material does not at all go in depth on the techniques you need to compromise a host and escalate privileges. Therefore, although I completed most of the course manual at the time with the exercises, I felt completely lost when it came to the labs. I felt that there was such a huge gap between what was taught in the course material and what you encountered in the labs. That in combination with having just started a new job and just finished a Master’s degree, I didn’t realize how burnt out I already was. 
+For those of you that had done v1 of the course, you know that the course material does not at all go in depth on the techniques you need to compromise a host and escalate privileges. Therefore, although I completed most of the course manual at the time with the exercises, I felt completely lost when it came to the labs. I felt that there was such a huge gap between what was taught in the course material and what you encountered in the labs. That in combination with having just started a new job and just finished a Master’s degree, I didn’t realize how burnt out I already was. 
 
 I let my lab time \(and exam attempt\) expire and decided to instead focus on my job. That is also when I decided to never go back to the OSCP labs until I felt that I’m not only prepared for the OSCP labs but also for the exam.
 
@@ -40,9 +40,9 @@ So here’s advice \#2.
 
 ## OSCP Labs — Second time’s a charm
 
-Having done all 47 boxes I finally felt ready to enrol back into the OSCP labs. At the time, Offensive Security had announced a major update to the course introducing PWK v.3.0. I enrolled in the latest version and opted for a one month lab subscription. 
+Having done all 47 boxes I finally felt ready to enrol back into the OSCP labs. At the time, Offensive Security had announced a major update to the course introducing PWK v2. I enrolled in the latest version and opted for a one month lab subscription. 
 
-Having experienced both PWK v.2.0 and PWK v.3.0, I can safely say that the rolled out update was a HUGE improvement. The course material went more in depth on methodology and attack vectors. It also assumed less background knowledge from readers. The labs were updated and patched. Other than the lab itself and your own dedicated practice VMs, you also get access to a target network that demonstrates a full walkthrough of a penetration test.
+Having experienced both PWK v1 and PWK v2, I can safely say that the rolled out update was a HUGE improvement. The course material went more in depth on methodology and attack vectors. It also assumed less background knowledge from readers. The labs were updated and patched. Other than the lab itself and your own dedicated practice VMs, you also get access to a target network that demonstrates a full walkthrough of a penetration test.
 
 This time around, I pretty much knew everything that was covered in the course material, except for the Active Directory and Pivoting chapters. I opted for submitting the lab report which took about two and a half weeks to complete and resulted in a 285 page document. This left me with only a week and a half left in the OSCP labs. During that time, I compromised about 25 boxes in the public network including the big four and unlocked the IT network.
 
@@ -148,7 +148,7 @@ Again, this is a tough question that I don’t have a solid answer to. I persona
 
 I didn’t use any of the recommended tools such as CherryTree and Joplin. During the OSCP labs I documented everything in GitBook. The exam and lab reports were written in LaTeX. As for report format, I used the official [Offensive Security template](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf).
 
-#### **8. Can you suggest new practice VMs from HTB or VulnHub that are inline with the PWK 3.0 update?**
+#### **8. Can you suggest new practice VMs from HTB or VulnHub that are inline with the PWK v2 update?**
 
 No, [TJ\_Null](https://twitter.com/TJ_Null) has done a great job in maintaining and updating the list. Make sure to follow him on Twitter to receive any future updates. 
 
