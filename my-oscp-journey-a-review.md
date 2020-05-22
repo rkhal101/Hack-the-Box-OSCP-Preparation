@@ -72,7 +72,7 @@ During the exam, I got the passing points within the first 9.5 hours, hit a road
 
 However, in the 24 hours after the exam, I sat down to work on the report and came to the realization that the exam machines were actually very simple. If it wasn’t for the stress of the exam, I would have been able to solve the boxes that I did solve in a maximum number of 4 hours on a normal day. The boxes were nothing compared to some of the boxes I solved on Hack the Box. This leads me to advice \#6.
 
-> This is easier said than done, but try to take it easy on the exam day. The exam is designed so that you’re able to finish it in the timeframe that you’re given. Also, don’t be afraid to use your Metasploit attempt, even if it is early on in the exam. It’ll give you the confidence boost that you need. However, first make sure that you’re \(1\) unable to solve it w/o Metasploit, and \(2\) the Metasploit module is very likely to work \(you only get to run it on one box!\)
+> This is easier said than done, but try to take it easy on the exam day. The exam is designed so that you’re able to finish it in the timeframe that you’re given. Also, don’t be afraid to use your Metasploit attempt, even if it is early on in the exam. It’ll give you the confidence boost that you need. However, first make sure that you’re \(1\) unable to solve the box w/o Metasploit, and \(2\) the Metasploit module is very likely to work \(you only get to run it on one box!\)
 
 I won’t say anything other than that about the exam because Offensive Security has strict rules on that. However, within a week of submitting my report, I received the long awaited email telling me I passed the exam from the first attempt!
 
