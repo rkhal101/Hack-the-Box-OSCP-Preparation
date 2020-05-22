@@ -102,7 +102,7 @@ The first thing you need to do is scan all 65535 TCP ports and the top UDP ports
 
 Once you’ve scanned all the ports, make a list of all the open ports. Start with weird services that you’ve never heard of before, identify the version of the installed software and then look for any associated critical CVEs such as remote code execution \(RCE\).
 
-Once you’ve enumerated those services and crossed them off, move on to more common services such as SMB, FTP and HTTP. Keep in mind that sometimes you have to chain vulnerabilities from different services. HTTP has a very large vector, so it’s best to leave enumerating that service till the end.
+Once you’ve enumerated those services and crossed them off, move on to more common services such as SMB, FTP and HTTP. Keep in mind that sometimes you have to chain vulnerabilities from different services. HTTP has a very large attack vector, so it’s best to leave enumerating that service till the end.
 
 #### **3. How do I avoid rabbit holes?** 
 
