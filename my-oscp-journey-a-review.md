@@ -125,7 +125,7 @@ This [Windows PHP reverse shell](https://github.com/Dhayalanb/windows-php-revers
 powershell -exec bypass
 ```
 
-An even better recommendation would be get a PowerShell reverse shell from the get go using [Nishang scripts](https://github.com/samratashok/nishang) wherever possible. 
+An even better recommendation would be to get a PowerShell reverse shell from the get go using [Nishang scripts](https://github.com/samratashok/nishang) wherever possible. 
 
 As for privilege escalation, I cover that in the next question. 
 
