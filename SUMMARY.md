@@ -37,6 +37,7 @@
   * [Jerry Writeup w/o Metasploit](windows-boxes/jerry-writeup-w-o-metasploit.md)
   * [Conceal Writeup w/o Metasploit](windows-boxes/conceal-writeup-w-o-metasploit.md)
   * [Chatterbox Writeup w/o Metasploit](windows-boxes/chatterbox-writeup-w-o-metasploit.md)
+  * [Forest Writeup w/o Metasploit](windows-boxes/forest-writeup-w-o-metasploit.md)
 * [More Challenging than OSCP HTB Boxes](more-challenging-than-oscp/README.md)
   * [Jeeves Writeup w/o Metasploit](more-challenging-than-oscp/jeeves-writeup-w-o-metasploit.md)
   * [Bart Writeup w/o Metasploit](more-challenging-than-oscp/bart-writeup-w-o-metasploit.md)

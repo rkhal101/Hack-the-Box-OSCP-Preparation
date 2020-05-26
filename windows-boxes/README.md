@@ -134,7 +134,7 @@ List of HTB Windows boxes that are similar to the OSCP labs.
     <tr>
       <td style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="chatterbox-writeup-w-o-metasploit.md"><b>Chatterbox</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
-      style="text-align:center"></td>
+      style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="forest-writeup-w-o-metasploit.md"><b>Forest</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -144,7 +144,13 @@ List of HTB Windows boxes that are similar to the OSCP labs.
           alt/>
         </p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/screen-shot-2020-05-25-at-10.57.46-pm.png"
+          alt/>
+        </p>
+      </td>
     </tr>
   </tbody>
 </table>
