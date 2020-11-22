@@ -24,6 +24,7 @@
   * [Networked Writeup w/o Metasploit](linux-boxes/networked-writeup-w-o-metasploit.md)
   * [Jarvis Writeup w/o Metasploit](linux-boxes/jarvis-writeup-w-o-metasploit.md)
   * [Magic Writeup w/o Metasploit](linux-boxes/magic-writeup-w-o-metasploit.md)
+  * [Tabby Writeup w/o Metasploit](linux-boxes/tabby-writeup-w-o-metasploit.md)
 * [HTB Windows Boxes](windows-boxes/README.md)
   * [Legacy Writeup w/o Metasploit](windows-boxes/legacy-writeup-w-o-metasploit.md)
   * [Blue Writeup w/o Metasploit](windows-boxes/blue-writeup-w-o-metasploit.md)
