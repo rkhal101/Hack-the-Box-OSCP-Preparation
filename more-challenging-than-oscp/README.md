@@ -30,7 +30,7 @@ List of HTB Linux & Windows boxes that are more challenging than the OSCP labs, 
     <tr>
       <td style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="tally-writeup-w-o-metasploit.md"><b>Tally</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
-      style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="active-writeup-w-o-metasploit.md"><b>Active</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="../windows-boxes/active-writeup-w-o-metasploit.md"><b>Active</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -147,3 +147,4 @@ List of HTB Linux & Windows boxes that are more challenging than the OSCP labs, 
     </tr>
   </tbody>
 </table>
+
