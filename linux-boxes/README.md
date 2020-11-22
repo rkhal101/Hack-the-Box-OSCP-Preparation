@@ -215,8 +215,7 @@ List of HTB Linux boxes that are similar to the OSCP labs.
     <tr>
       <td style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="magic-writeup-w-o-metasploit.md"><b>Magic</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
-      style="text-align:center"><b>Tabby</b>
-        </td>
+      style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="tabby-writeup-w-o-metasploit.md"><b>Tabby</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:center">
