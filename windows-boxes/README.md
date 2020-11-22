@@ -152,6 +152,21 @@ List of HTB Windows boxes that are similar to the OSCP labs.
         </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="active-writeup-w-o-metasploit.md"><b>Active</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p></p>
+        <p>
+          <img src="https://miro.medium.com/max/591/1*cLubOprFexA4alUED5FT8Q.png"
+          alt="Image for post" />
+        </p>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
   </tbody>
 </table>
 
